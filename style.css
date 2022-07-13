@@ -896,10 +896,14 @@ span {
 }
 
 footer p {
-    margin-top: 20px;
+    margin-top: 25px;
     font-size: 16px;
 }
 
 footer a {
     font-size: 16px;
+}
+
+footer li {
+    padding: 5px;
 }
